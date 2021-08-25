@@ -3,7 +3,7 @@ This is where I will document my Learning Journey of the course **Programming, D
 
 ### Week1️⃣:
 
-1. - [x] Simple GCD
+1. - [x] [Simple GCD](https://github.com/code-reaper08/NPTEL-Practice-Repo/blob/main/WEEK-1/Simple_GCD.py)
 
 2. - [x] Improving Naive GCD 
 
