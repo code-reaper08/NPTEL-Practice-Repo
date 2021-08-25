@@ -14,9 +14,9 @@ def gcd(m,n):
             fn.append(j)
     cf = []
     for f in fm:
-        for f in fn:
+        if f in fn:
             cf.append(f)
     return(cf[-1])
 
-# driver code
+# driver
 print(gcd(8,6))
