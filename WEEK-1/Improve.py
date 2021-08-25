@@ -26,8 +26,8 @@
 
 def gcd(m,n):
     cf = []
-    for i in range(1,min(m,n)+1):
-        if (m%i) == 0 and (n%i) == 0:
+    for i in range(1,min(m,n)+1): # common factor must be less than min(m,n)
+        if (m%i) == 0 and (n%i) == 0: # logical and is used to check two conditions at once.
             cf.append(i)
     return(cf[-1])
 
