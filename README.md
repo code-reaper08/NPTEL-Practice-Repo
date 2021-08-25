@@ -1,2 +1,16 @@
-# Dev
-On Dev
+# NPTEL-Practice repo
+This is where I will document my Learning Journey of the course **Programming, Data Structures and Algorithms in python**.
+
+### Week1️⃣:
+
+1. - [x] Simple GCD
+
+2. - [x] Improving Naive GCD 
+
+3. - [x] Euclid's algorithm for GCD
+
+4. - [x] Downloading and Installing Python
+
+---
+
+### Week2️⃣:
