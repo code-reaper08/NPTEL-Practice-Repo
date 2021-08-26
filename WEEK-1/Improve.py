@@ -19,7 +19,7 @@ def gcd(m,n):
     return(cf[-1])
 
 # driver code
-print(gcd(18,76))
+print(gcd(98,56))
 
 
 # Improvement 2:
