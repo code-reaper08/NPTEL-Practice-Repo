@@ -7,7 +7,7 @@ This is where I will document my Learning Journey of the course **Programming, D
 
 2. - [x] [Improving Naive GCD](https://github.com/code-reaper08/NPTEL-Practice-Repo/blob/main/WEEK-1/Improve.py)
 
-3. - [x] Euclid's algorithm for GCD
+3. - [x] [Euclid's algorithm for GCD](https://github.com/code-reaper08/NPTEL-Practice-Repo/blob/main/WEEK-1/Euclid_GCD.py)
 
 4. - [x] Downloading and Installing Python
 
